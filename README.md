@@ -1,0 +1,2 @@
+# MailFileSender
+Gmailに届いた領収書をGoogleDriveに格納してメールを送ってくれるやつ！
